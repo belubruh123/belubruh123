@@ -8,7 +8,7 @@ Welcome to my GitHub! I am a student with a strong focus on software development
 
 - **Currently learning & doing:** Tackling APCS C++ questions to sharpen my algorithmic logic and exploring Deep Reinforcement Learning (DRL).
 - **What I build:** I develop custom Minecraft plugins in Java (like Lifesteal mechanics) and build versatile JavaScript libraries. 
-- **In my free time:** I play and host Minecraft. You can catch my server at `mc.mgb-yt.com`.
+- **In my free time:** I play and host Minecraft. You can catch my server at `mc.mgb-yt.com`. (Needs to be whitelisted)
 - **Looking to collaborate on:** Open-source JavaScript tools, advanced Minecraft server modifications, or competitive programming challenges.
 
 ---
